@@ -1,5 +1,5 @@
 
-![](https://i.kym-cdn.com/entries/icons/facebook/000/015/273/pajamakid.jpg | width=400)
+![](https://i.kym-cdn.com/entries/icons/facebook/000/015/273/pajamakid.jpg)
 
 <!--
 ### Hi there 👋
