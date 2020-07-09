@@ -1,6 +1,9 @@
-### Hi there 👋
+
+![](https://i.kym-cdn.com/entries/icons/facebook/000/015/273/pajamakid.jpg | width=400)
 
 <!--
+### Hi there 👋
+
 **ialexs/ialexs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
