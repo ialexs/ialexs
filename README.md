@@ -1,5 +1,22 @@
 
-![](https://i.kym-cdn.com/entries/icons/facebook/000/015/273/pajamakid.jpg)
+![](pajamakid.jpg)
+
+## ehlo
+
+- Writings: [ialexs.github.io](ialexs.github.io)
+- 📫 How to reach me: [twitter.com/ialexs](twitter.com/ialexs) 
+- 💬 Ask me about: Run, Linux, Ikkyo, Bash 
+
+---
+
+## Beloved weapon of choice.. 
+
+[https://www.reddit.com/r/ProgrammerHumor/comments/2o3zon/if_programming_languages_were_weapons/](https://www.reddit.com/r/ProgrammerHumor/comments/2o3zon/if_programming_languages_were_weapons/)
+
+![](woc.png)
+
+---
+
 
 <!--
 ### Hi there 👋
