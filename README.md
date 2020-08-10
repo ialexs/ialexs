@@ -1,5 +1,5 @@
 
-![](pajamakid.jpg)
+![](https://raw.githubusercontent.com/ialexs/ialexs/master/pajamakid.jpg)
 
 ## ehlo
 
@@ -13,7 +13,7 @@
 
 [https://www.reddit.com/r/ProgrammerHumor/comments/2o3zon/if_programming_languages_were_weapons/](https://www.reddit.com/r/ProgrammerHumor/comments/2o3zon/if_programming_languages_were_weapons/)
 
-![](woc.png)
+![](https://raw.githubusercontent.com/ialexs/ialexs/master/woc.png)
 
 ---
 
