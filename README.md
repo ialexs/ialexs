@@ -3,8 +3,8 @@
 
 ## ehlo
 
-- Writings: [ialexs.github.io](ialexs.github.io)
-- 📫 How to reach me: [twitter.com/ialexs](twitter.com/ialexs) 
+- Writings: [ialexs.github.io](https://ialexs.github.io)
+- 📫 How to reach me: [twitter.com/ialexs](https://twitter.com/ialexs) 
 - 💬 Ask me about: Run, Linux, Ikkyo, Bash 
 
 ---
